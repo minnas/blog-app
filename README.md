@@ -1,14 +1,15 @@
 ## Available Scripts
 
-In the project directory, you can run:
+Simple frontend server for blog post app
 
+### `npm install`
+Installs project dependies
 ### `npm start`
 ### `yarn start`
-
 Runs the app in the development mode.<br>
 Open [http://localhost:3000]
 
-Start fist the backend server for blog-app !!
+Start first the backend server for blog app
 
 
 
