@@ -35,3 +35,6 @@ span.remove-blog {
 p.blog-description {
   display:none;
 }
+li img {
+  display: block;
+}
